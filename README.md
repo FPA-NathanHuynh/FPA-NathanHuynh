@@ -1,20 +1,56 @@
-![Fisher & Paykel Cover Image](https://connect-assets.prosple.com/cdn/ff/sM13MMAhKx3wh1uLSEzXlTSquCu1lmOOuymiwPKBvxg/1682653022/public/styles/scale_890_no_upsize/public/2023-04/1682653021559_FP-Brand-Website-Logomark-whiteonblack.jpg)
+# Hi, I'm Nathan 👋
 
-👋 Hi, I’m @nhanhuynh296
+Software Engineer based in Dunedin, New Zealand.
+Currently building embedded and backend systems at Fisher & Paykel.
 
-I wanted to contribute to developing web app, mobile application. I enjoyed creating software from a prototype, documenting design and coding!
-I also excited in solving problem, more specifically hacky way to problems. Not that I am lazy, I like auditing an application and trying to break inside and raise awareness to the developers. I really enjoy a collaborative, sharing knowledge and skill environment.
+---
 
-👀 I’m interested in machine learning and 
+## 🛠️ Tech Stack
 
-🌱 I’m currently learning software security 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-💞️ I’m working at ![Fisher & Paykel github profile](https://github.com/fisherpaykelpd)
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-huynhh/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mail@nhanhuynh296@gmail.com)
+## 💼 Experience
 
-<!---
-nhanhuynh296/nhanhuynh296 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Product Development Engineer** — Fisher & Paykel *(2023–Present)*
+  - Middleware engineer in cross-functional team
+  - Built Python-based backend application to remove hardware dependency
+  - Developed FastAPI timelapse service for executive demonstrations
+
+- **Software Intern** — Assura Software *(2022)*
+  - Refactored Selenium test suite in C#
+  - Built polling-based test system — cut test time by 30s per test
+
+- **Research Assistant** — University of Canterbury *(2022)*
+  - Built automated Python data pipeline processing Common Crawl & Twitter data
+  - Trained and deployed ML models for semantic classification
+
+---
+
+## 🚀 Projects
+
+### 🏸 Badminton Game Organiser
+> Currently used by Badminton Otago University
+
+- Randomises games based on player level and games played
+- Manages players with barcode scan sign-in
+
+---
+
+## 🎓 Education
+
+- **BE Software Engineering** — University of Canterbury *(2022)*
+- **AWS Solutions Architect Associate** *(Expected December 2026)*
+
+---
+
+## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:work@nathan-huynh.com)
