@@ -41,6 +41,11 @@ Currently building embedded and backend systems at Fisher & Paykel.
 - Randomises games based on player level and games played
 - Manages players with barcode scan sign-in
 
+
+### 💼 Resume chatbot
+- A RAG pipeline for QA task about my CV
+- Used my CV as Retriver, used Google Gemini for text embedding/generator 
+
 ---
 
 ## 🎓 Education
